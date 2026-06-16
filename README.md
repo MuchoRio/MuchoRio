@@ -1,24 +1,39 @@
 # Hey there, I'm Rio! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=7C3AED&width=435&lines=Software+Developer;AI+%26+WhatsApp+Bot+Creator;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=7C3AED&width=435&lines=Software+Developer;AI+%26+Automation+Creator;QA+Automated+Tester;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ### 💫 About Me
-I'm a Software Developer based in Indonesia 🇮🇩. I love building automated tools, integrating AI into daily workflows, and experimenting with new tech stacks.
+I'm a Software Developer based in Indonesia 🇮🇩. I love building automated tools, integration scripts, and automated test cases, and exploring AI.
 
 - 🤖 Currently working on **WhatsApp Bots & AI Integrations** (using Node.js, Baileys, and Gemini AI).
-- ⚡ Fun fact: I love automating things so I can spend more time doing what matters.
-- 💬 Ask me about: JavaScript, Node.js, and how to build self-healing bots!
+- ⚙️ Passionate about **Automation & Scripting** (web scraping, media downloader bots, and desktop utilities).
+- 💬 Ask me about: JavaScript, Python, automation tools, and automated testing!
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,vscode,postman,npm,powershell" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,python,java,html,css,git,github,vscode,postman,npm,powershell" />
   </a>
 </p>
+
+---
+
+### 📂 Featured Projects
+Here are some of my active and interesting public repositories:
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [🤖 Baileys-WA-Bot](https://github.com/MuchoRio/Baileys-WA-Bot) | Ultra-lightweight WhatsApp Bot integrated with Gemini AI and multi-LLM support. | Node.js, Baileys, Gemini AI |
+| [🎥 YT-Reaction-Video-Maker-GUI](https://github.com/MuchoRio/YT-Reaction-Video-Maker-GUI) | Desktop GUI tool designed to easily create YouTube reaction videos. | Python, Tkinter |
+| [🚫 Tiktok-Report-Bot](https://github.com/MuchoRio/Tiktok-Report-Bot) | Automates bulk reports for specific TikTok accounts or content. | Python, Requests |
+| [🖼️ Batch-Image-Watermarker](https://github.com/MuchoRio/Batch-Image-Watermarker) | Desktop utility to apply watermarks to image batches quickly. | Python |
+| [📥 YT-Shorts-Bulk-Downloader](https://github.com/MuchoRio/YT-Shorts-Bulk-Downloader) | A simple tool to download YouTube Shorts in bulk automatically. | Python / Node.js |
+| [⚙️ Filter-Scheme-Proxy](https://github.com/MuchoRio/Filter-Scheme-Proxy) | Specialized proxy and network scheme filter script. | Python |
+| [🧪 Learning-Katalon-Testing](https://github.com/MuchoRio/Learning-Katalon-Testing) | Practice and sample code for automated web testing using Katalon Studio. | Katalon, Groovy |
 
 ---
 
@@ -54,4 +69,4 @@ I'm a Software Developer based in Indonesia 🇮🇩. I love building automated 
   <img src="https://komarev.com/ghpvc/?username=MuchoRio&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Visitor Count" />
 </p>
 
-<!-- Proudly created/enhanced with GPRM ( https://gprm.itsvg.in ) & Antigravity AI -->
+<!-- Enhanced with Antigravity AI -->
